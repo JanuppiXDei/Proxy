@@ -1,5 +1,8 @@
 # Growtopia Linux/Android Proxy (Dark Proxy)
-Hey, i am januppi im c++/c developer! Why did i decide to start working on this and why is it free? Well i always wanted my own proxy with own features so i made 1 few months ago and i dont really have anything to fo with it so i want to get some people to have fun with proxy while being on Android/Linux!
+Hey, i am januppi im c++/c developer! Why did i decide to start working on this and why is it free? Well i always wanted my own proxy with own features so i made 1 few months ago and i dont really have anything to fo with it so i want to get some people to have fun with proxy while being on Android/Linux! Please leave a star!
+
+# Video Tutorial
+https://youtu.be/k3HoYOFbHZ0?si=pOejwXWt6pQgIvMC
 
 # How to install?
 1. download termux from fdroid
